@@ -4,6 +4,8 @@
 
 This project involves the implementation and simulation of core operating system scheduling algorithms, including First-Come-First-Serve (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF), and Round Robin (RR). The primary goal is to analyze the efficiency of these algorithms through a statistical study.
 
+![](pic.png)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
